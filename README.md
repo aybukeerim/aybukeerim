@@ -26,8 +26,5 @@ I'm a software developer specializing in backend, frontend, and mobile developme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
 </div>
 
-### 📊 GitHub Stats & Most Used Languages  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aybukeerim&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 
 
